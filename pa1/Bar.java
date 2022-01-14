@@ -1,5 +1,4 @@
 // Name: Haolun Cheng
-// USC NetID: haolunch
 // CS 455 PA1
 // Fall 2021
 
